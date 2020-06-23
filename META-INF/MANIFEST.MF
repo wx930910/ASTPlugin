@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ASTPlugin
+Bundle-SymbolicName: ASTPlugin
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: stevens.sse.rise
+Automatic-Module-Name: ASTPlugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
